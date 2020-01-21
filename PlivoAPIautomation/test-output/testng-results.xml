@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="6" passed="6">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="7392" started-at="2020-01-21T08:52:31Z" finished-at="2020-01-21T08:52:38Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="7392" started-at="2020-01-21T08:52:31Z" finished-at="2020-01-21T08:52:38Z">
+      <class name="com.plivo.test.PlivoAPIautomation.ChannelTestCases">
+        <test-method status="PASS" signature="setUpTest()[pri:0, instance:com.plivo.test.PlivoAPIautomation.ChannelTestCases@54385172]" name="setUpTest" is-config="true" duration-ms="560" started-at="2020-01-21T08:52:31Z" finished-at="2020-01-21T08:52:31Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpTest -->
+        <test-method status="PASS" signature="CreateChannel()[pri:0, instance:com.plivo.test.PlivoAPIautomation.ChannelTestCases@54385172]" name="CreateChannel" duration-ms="2584" started-at="2020-01-21T08:52:31Z" finished-at="2020-01-21T08:52:34Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CreateChannel -->
+        <test-method status="PASS" signature="archiveChannels()[pri:0, instance:com.plivo.test.PlivoAPIautomation.ChannelTestCases@54385172]" name="archiveChannels" duration-ms="918" started-at="2020-01-21T08:52:34Z" finished-at="2020-01-21T08:52:35Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- archiveChannels -->
+        <test-method status="PASS" signature="joinChannel()[pri:0, instance:com.plivo.test.PlivoAPIautomation.ChannelTestCases@54385172]" name="joinChannel" duration-ms="735" started-at="2020-01-21T08:52:35Z" finished-at="2020-01-21T08:52:36Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- joinChannel -->
+        <test-method status="PASS" signature="listAllChannels()[pri:0, instance:com.plivo.test.PlivoAPIautomation.ChannelTestCases@54385172]" name="listAllChannels" duration-ms="1240" started-at="2020-01-21T08:52:36Z" finished-at="2020-01-21T08:52:37Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- listAllChannels -->
+        <test-method status="PASS" signature="renameChannel()[pri:0, instance:com.plivo.test.PlivoAPIautomation.ChannelTestCases@54385172]" name="renameChannel" duration-ms="579" started-at="2020-01-21T08:52:37Z" finished-at="2020-01-21T08:52:37Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- renameChannel -->
+        <test-method status="PASS" signature="vlidateArchiveChannels()[pri:0, instance:com.plivo.test.PlivoAPIautomation.ChannelTestCases@54385172]" name="vlidateArchiveChannels" duration-ms="717" started-at="2020-01-21T08:52:37Z" finished-at="2020-01-21T08:52:38Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- vlidateArchiveChannels -->
+      </class> <!-- com.plivo.test.PlivoAPIautomation.ChannelTestCases -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
